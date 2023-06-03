@@ -1,0 +1,11 @@
+{
+    "users":[
+        {   
+            "id":1,
+            "username":"Chunnu",
+            "email":"chunnu@mail",
+            "password":"chunnu",
+            "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8XLEalLPLbMGUfj8VPU_DMi8wil8LIq4RWCYGKgZ&s"
+        }
+    ]
+}
